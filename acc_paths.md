@@ -28,7 +28,7 @@ _SS3_
 
     /dir_ctpcj
     /dir_ctpcj/dir_apsck
-    /dir_lhkzx/dir_ctpcj/dir_apsck/file_hwa.txt
+    /dir_ctpcj/dir_apsck/file_hwa.txt
     /dir_ctpcj/dir_apsck/file_rkn.txt
     /dir_ctpcj/dir_hfccx
     /dir_ctpcj/dir_hfccx/here.txt
